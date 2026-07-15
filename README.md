@@ -240,4 +240,4 @@ Each project tackles a different business domain while demonstrating transferabl
 
 💼 [LinkedIn](https://www.linkedin.com/in/angel-minerva-unnava-818525268/)
 
-📧 Email :nangelminerva01@gmail.com
+📧 Email : angelminerva01@gmail.com
