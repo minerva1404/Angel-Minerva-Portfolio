@@ -47,7 +47,7 @@ MySQL
 
 Delta Lake
 
-Analytics & BI
+### Analytics & BI
 
 Power BI
 
@@ -237,7 +237,4 @@ Visualization	Power BI
 
 💼 [LinkedIn](https://www.linkedin.com/in/angel-minerva-unnava-818525268/)
 
-📧 [Email](angelminerva01@gmail.com)
-
-
-
+📧 Email :nangelminerva01@gmail.com
