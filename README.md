@@ -103,6 +103,7 @@ An end-to-end streaming data engineering pipeline that ingests live MBTA GTFS-Re
 
 Python • Kafka • PySpark • Delta Lake • Power BI
 
+---
 
 ## 2. 🛒 Retail Demand Analytics Engine
 
@@ -139,6 +140,7 @@ A streaming ETL pipeline that simulates high-volume e-commerce customer activity
 
 Python • Kafka • Spark Structured Streaming • MySQL • Power BI
 
+---
 
 ## 3. 💳 Financial Audit Trail & Fraud Detection Data Pipeline
 
@@ -209,15 +211,16 @@ Each project tackles a different business domain while demonstrating transferabl
 
 ## 📊 Core Data Engineering Skills
 
-Category	Skills
-Streaming	Apache Kafka, Spark Structured Streaming
-ETL	Batch ETL, Streaming ETL
-Data Processing	PySpark, SQL
-Storage	Delta Lake, MySQL
-Architecture	Bronze–Silver–Gold, Medallion Architecture
-Data Quality	Validation, Cleansing, Deduplication, Schema Enforcement
-Analytics	KPI Engineering, Aggregations, Dashboard-ready Models
-Visualization	Power BI
+| Category |	Skills |
+|----------|---------|
+| Streaming |	Apache Kafka, Spark Structured Streaming |
+| ETL |	Batch ETL, Streaming ETL |
+| Data Processing |	PySpark, SQL |
+| Storage |	Delta Lake, MySQL |
+| Architecture |	Bronze–Silver–Gold, Medallion Architecture |
+| Data Quality |	Validation, Cleansing, Deduplication, Schema Enforcement |
+| Analytics |	KPI Engineering, Aggregations, Dashboard-ready Models |
+| Visualization |	Power BI |
 
 ---
 
